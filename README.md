@@ -16,3 +16,4 @@ The PacMen project was built using:
 * Issakha Dia
 
 ## License
+https://github.com/looybi/PacMen/edit/main/LICENSE
