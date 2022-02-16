@@ -11,9 +11,9 @@ The PacMen project was built using:
 * CSS; and
 * HTML.
 
-## Contrubutions
+## Credits
 * MiT (Massachusetts Institute of Technology)
-* Issakha Dia
+* Looybi
 
 ## License
 https://github.com/looybi/PacMen/edit/main/LICENSE
